@@ -9,7 +9,26 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![PyPI](https://img.shields.io/badge/pypi-prttprint-orange)](https://pypi.org/)
 
-[Install](#installation) | [Quick Start](#quick-start) | [Cheatsheet](#cheatsheet) | [Core](#core-basics) | [Storage](#storage) | [Features](#features) | [Examples](#examples) | [FAQ](#faq)
+---
+
+## Table of contents
+
+- About
+- Installation
+- Quick Start
+- Cheatsheet
+- Documentation generator
+- Self-test
+- Core basics
+- Storage
+- Features
+- Examples
+- Size
+- Requirements
+- FAQ
+- Contributing
+- License
+- Credits
 
 ---
 
